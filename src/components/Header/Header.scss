@@ -1,0 +1,54 @@
+.header {
+    .header-inner {
+        padding: 26px 0;
+    }
+    .header-item {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+ 
+    .logo {
+        width: 90px;
+        height: 22px;
+        margin: 0 30px;
+    }
+
+    .link {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        text-decoration: none;
+        margin: 0 22px;
+        letter-spacing: 0.1px;
+        color: #1D1E20;
+    }
+
+    .sign-btn {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        letter-spacing: 0.1px;
+        display: inline-block;
+        padding: 11px 17px;
+        color: #000000;
+        margin: 0 10px;
+        border: 1px solid #505967;
+        border-radius: 12px;
+        cursor: pointer;
+    }
+
+    .start-btn {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        letter-spacing: 0.1px;
+        display: inline-block;
+        padding: 11px 16px;
+        color: #FFFFFF;
+        background: #383E47;
+        border-radius: 12px;
+        border: none;
+        cursor: pointer;
+    }
+}

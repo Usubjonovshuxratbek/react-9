@@ -1,0 +1,34 @@
+.like {
+    .like-inner {
+        margin: 103px 0 96px 0;
+    }
+
+    .title {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+        letter-spacing: 0.1px;
+        color: #727B84;
+    }
+
+    .like-logo {
+        width: 350px;
+        margin-left: 301px;
+        margin-top: 36px;
+
+        .logo-1 {
+            width: 109px;
+            height: 29px;
+            object-fit: cover;
+        }
+
+        .logo-2 {
+            width: 123px;
+            height: 32px;
+            object-fit: cover;
+            margin-left: 70px;
+        }
+    }
+}
